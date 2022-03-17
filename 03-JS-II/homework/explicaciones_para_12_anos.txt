@@ -1,0 +1,16 @@
+Explicaciones para un niño de 12 años:
+
+
+For:
+Es una manera sencilla de indicarle a una computadora que debe repetir una acción durante una cantidad conocida de veces
+
+&&
+Se le indica a una computadora que, para realizar cierta tarea, deben cumplirse dos o más cosas (condiciones)
+
+||
+Se le indica a una computadora que, para realizar cierta tarea, deben cumplirse al menos una de ciertas cosas (condiciones)
+
+!
+Es el modo de indicarle a una computadora que se espera lo opuesto de algo, equivale a decir 'No' (ejemplo: no igual, no cierto)
+
+
