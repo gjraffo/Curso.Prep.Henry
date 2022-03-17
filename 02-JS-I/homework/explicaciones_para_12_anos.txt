@@ -1,0 +1,28 @@
+Explicaciones para un niño de 12 años:
+
+Variables:
+Son como cajitas donde se pueden guardar distintas cosas (valores).
+Luego se puede ver cuál es su contenido de cierta cajita, usarlo para algo, cambiarlo por otro, etc
+
+
+Strings:
+Es un caracter al lado del otro, formando lo que se conoce como una cadena. Pueden ser números, letras, símbolos, espacios. 
+Para saber dónde comienza y donde termina se utilizan comillas
+
+
+Funciones:
+Acá creo que lo voy a marear al chico de 12 años! ;)
+Es un modo de decirle a una computadora que realice una serie de pasos siempre del mismo modo y donde lo único que puede cambiar son los datos (argumentos) con los cuales realizar esos pasos. Así, toda función retorna un resultado en función de esos pasos y los datos (argumentos). 
+Por ejemplo, una función podría ser meter todos los ingredientes en la licuadora, licuar por cinco minutos y servir en un vaso. El resultado será distinto si le ingreso bananas, leche y azúcar que si le ingreso durazno, ron y hielo, pero los pasos del proceso (o sea la función) son los mismos.
+Return avisa que el proceso debe terminarse y puede devolver un resultado acorde a ese final
+
+
+Declaraciones:
+Es como avisarle a la computadora que ciertos nombres tienen un significado, son algo. Por ejemplo, pueden ser una variable o una función. Y entondes cada vez que alguien use uno de esos nombres  estará "llamando" a lo que sea que signifiquen.
+If se utiliza para indicarle a la computadora que actúe de una u otra manera dependiendo del resultado de una situación (condición) previa
+
+
+Valores booleanos:
+La computadoras, al igual que las personas, suelen necesitar evaluar preguntas que tienen sólo dos respuetas. Llegó? Salió? Chocó el auto? Esas respuestas son siempre: sí o no, verdadero o falso, true o false.
+Entonces las computadoras usan resultado true o false, como resultado a esas preguntas (condiciones) para tomar una decisión, por ejemplo, ejecutar cierto comando sólo si la pregunta (condición) aneterior fue true
+
