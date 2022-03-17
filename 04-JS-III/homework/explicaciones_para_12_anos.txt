@@ -1,0 +1,5 @@
+Explicaciones para un niño de 12 años:
+
+
+Array:
+Es como una caja principal que tiene distintas cajitas, una al lado de la otra. En cada una de esas cajitas pequeñas se puede guardar algo (valor). Esos valores se pueden usar o reemplazar. Y además también se pueden quitar o agregar más de esas cajitas
