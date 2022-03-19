@@ -20,3 +20,4 @@ Se utiliza para recorrar todas y cada una de las propiedades de un objeto
 
 Notación de puntos vs notación de corchetes
 Cada propiedad puede ser consultada o modificada de dos maneras. Una es con un punto entre el nombre del objeto y el de la propiedad. Y la otra escribiendo el nombre de la propiedad entre corchetes y comillas justo a continuación del nombre del objeto. 
+La notación de corchetes permite invocar una propiedad sin escribir litermalmente su nombre, sólo mencionando el lugar donde está escribo ese nombre, por ejemplo un variable
