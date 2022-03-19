@@ -1,0 +1,22 @@
+Explicaciones para un niño de 12 años:
+
+Objetos
+Son una colección de características referidas a alguna cosa en particular. 
+Ejemplo: información de una persona, o de una computadora, o de un automóvil. 
+Permiten poner numbre a cada una de esas características, para que sea más fácil entenderlas y usarlas
+
+
+Propiedades
+Cada una de las características mencionadas en el punto anterior es una propiedad
+
+
+Métodos
+Si una propiedad no es solamente información sino que es en realidad un proceso (una tarea que se hace) entonces esa propiedad es un método
+
+
+Bucle `for…in`
+Se utiliza para recorrar todas y cada una de las propiedades de un objeto
+
+
+Notación de puntos vs notación de corchetes
+Cada propiedad puede ser consultada o modificada de dos maneras. Una es con un punto entre el nombre del objeto y el de la propiedad. Y la otra escribiendo el nombre de la propiedad entre corchetes y comillas justo a continuación del nombre del objeto. 
