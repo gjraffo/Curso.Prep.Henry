@@ -1,0 +1,8 @@
+Explicaciones para un niño de 12 años:
+
+prototype
+Cada cosa en Javascript fue "hecha con un molde" que si prototype. Toda variable, objeto, función, etc fue creada con su molde. Si por ejemplo yo creo una una función que cree objetos que contengan cierto método, dicho métido se replicará en cada nuevo objeto que se cree, pero si yo ubico el métido en el prototype de dicha función (y no en la función misma), entonces todo objeto creado con esa función podrá usar ese método (que está en prototype de la función) pero dicho método sólo existirá una vez (en el prototype) haciendo así más efeciente y económico el código.
+
+
+Constructors
+Son funciones que sirven para construir objetos. Pueden o no tomar parámetros y devuelven el objeto creado
