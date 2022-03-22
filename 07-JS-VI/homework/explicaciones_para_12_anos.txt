@@ -1,0 +1,5 @@
+Explicaciones para un niño de 12 años:
+
+
+Funciones Callback
+Son funciones enviadas como parámetro a otra función, para que se ejecute dentro de esta función que la recibe
